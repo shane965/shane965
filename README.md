@@ -5,7 +5,6 @@
 Hello there! Welcome to my GitHub profile.
 
 My name is Shane Wang, and I work as a development engineer. Over the years, I have spent most of my time working with OpenStack and Kubernetes.
-If you have any questions or want to get in touch with me, feel free to send me an email at <xwang4396@gmail.com>.
 
 ## Current Works
 
@@ -27,3 +26,5 @@ I am currently working on Kubernetes networking and focusing on ovn/ovs and eBPF
 * Experience in OpenStack customization, cloud platform development, and maintenance
 * Practical experience in implementing distributed tracing and unit testing
 * Familiar with Linux kernel networking applications such as netFilter and ipvs, as well as high-performance networking technologies like eBPF.
+
+If you have any questions or want to get in touch with me, feel free to send me an email at <xwang4396@gmail.com>.
