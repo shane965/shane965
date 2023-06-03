@@ -10,12 +10,6 @@ My name is Shane Wang, and I work as a development engineer. Over the years, I h
 
 I am currently working on Kubernetes networking and focusing on ovn/ovs and eBPF. I am happy to participate in related open source projects to learn and grow together, and work towards providing more flexible and higher-performance container networks.
 
-## Projects I Work On
-
-* Developed an edge computing platform based on Kubernetes. Technologies involved include Kubesphere, kube-ovn, kubevirt, macvtap-cni, multus-cni, and more.
-* Develop a public cloud platform based on OpenStack. Technologies involved include Neutron, Nova, Glance, Cinder, Opentracing, Osprofiler, and more.
-* Data Display and Trading Platform for Funds, Stocks, and Futures: This work includes platform construction, data acquisition, data analysis, algorithm development, and API provision. Technologies involved include Python, Spark, pandas, Scrapy, and more.
-
 ## Technology Stack
 
 * Solid foundation in Golang/Python and understanding of the underlying implementation principles
