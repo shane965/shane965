@@ -12,13 +12,10 @@
 
 ## 技术栈
 
-* Golang/Python 基础扎实并了解底层实现原理
-* 熟悉 Kubernetes、Kube-ovn、cni
-* 熟练使用 Mysql 和 Redis 数据库，并有优化能力
-* 熟练使用 gin、echo、fastapi、Django 等框架进行 web 开发和中间件开发
-* RabbitMQ、Docker、Elasticsearch、Spark、Jaeger、Scrapy 的使用经验
-* OpenStack 定制、云平台开发和维护经验
-* 链路追踪、单元测试落地的实践经验
-* 熟悉 Linux 内核网络 netFilter、ipvs 等应用，以及高性能网络技术 eBPF。
+* 编程语言：Go、Python、Rust、C
+* 网络：ovn/ovs、OpenFlow、ePBF、Netfilter、ipvs
+* OpenStack: Nova、Neutron、Glance、Cinder、OSProfiler
+* Kubernetes: KubeSphere、Kube-Ovn、multus-cni、Kubevirt
+* 数据库：etcd、MySQL、PostgreSQL、Redis、MongoDB
 
-如果您有任何问题或想联系我，请随时发送电子邮件至 <xwang4396@gmail.com>。
+如果您有任何问题或想联系我，请随时发送电子邮件至 <xwang4396@gmail.com> 或者加我微信 wxxxx8888。
