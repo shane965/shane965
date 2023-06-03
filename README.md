@@ -12,13 +12,10 @@ I am currently working on Kubernetes networking and focusing on ovn/ovs and eBPF
 
 ## Technology Stack
 
-* Solid foundation in Golang/Python and understanding of the underlying implementation principles
-* Familiar with Kubernetes, Kube-ovn, cni
-* Proficient in Mysql and Redis databases, with knowledge of underlying principles and optimization capabilities
-* Skilled in web development and middleware development using frameworks such as gin, echo, fastapi, and Django
-* Experienced in using RabbitMQ, Docker, Elasticsearch, Spark, Jaeger, and Scrapy
-* Experience in OpenStack customization, cloud platform development, and maintenance
-* Practical experience in implementing distributed tracing and unit testing
-* Familiar with Linux kernel networking applications such as netFilter and ipvs, as well as high-performance networking technologies like eBPF.
+* Programming Languages: Go, Python, Rust, C
+* Networking: ovn/ovs, OpenFlow, ePBF, Netfilter, ipvs
+* OpenStack: Nova, Neutron, Glance, Cinder, OSProfiler
+* Kubernetes: KubeSphere, Kube-Ovn, multus-cni, Kubevirt
+* Databases: etcd, MySQL, PostgreSQL, Redis, MongoDB
 
-If you have any questions or want to get in touch with me, feel free to send me an email at <xwang4396@gmail.com>.
+If you have any questions or want to contact me, please feel free to email me at <xwang4396@gmail.com> or add me on WeChat at wxxxx8888.
