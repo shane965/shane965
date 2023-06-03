@@ -10,12 +10,6 @@
 
 我目前正在做Kubernetes网络相关的工作，重点关注 ovn/ovs 和 eBPF。我很乐意参与相关的开源项目，在其中一起学习和进步，致力于提供更灵活、更高性能的容器网络。
 
-## 我工作的项目
-
-* 基于 Kubernetes 的边缘计算平台开发。涉及技术包括 Kubesphere、kube-ovn、kubevirt、macvtap-cni、multus-cni 等等。
-* 开发基于OpenStack的公有云平台。涉及技术包括 Neutron、Nova、Glance、Cinder、Opentracing、Osprofiler 等等。
-* 基金、股票、期货数据展示与交易平台：该项目包括平台搭建、数据采集、数据分析、算法开发、API 提供等等。涉及技术包括 Python、Spark、pandas、Scrapy 等等。
-
 ## 技术栈
 
 * Golang/Python 基础扎实并了解底层实现原理
