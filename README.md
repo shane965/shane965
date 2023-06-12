@@ -1,6 +1,6 @@
 # Shane Wang
 
-[中文版](./README_CN.md) | [English Version](./README.md)
+[简体中文](./README_CN.md) | [English](./README.md)
 
 Hello there! Welcome to my GitHub profile.
 
