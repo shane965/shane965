@@ -4,7 +4,7 @@
 
 你好！欢迎来到我的 GitHub 个人主页。
 
-我叫Shane Wang，是一名开发工程师。在过去的几年中，我大部分时间都在与OpenStack和Kubernetes相关的工作中度过。
+我叫Shane Wang，是一名软件开发工程师。在过去的几年中，我大部分时间都在与OpenStack和Kubernetes相关的工作中度过。
 
 ## 当前工作
 
