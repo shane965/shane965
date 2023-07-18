@@ -4,7 +4,7 @@
 
 Hello there! Welcome to my GitHub profile.
 
-My name is Shane Wang, and I work as a development engineer. Over the years, I have spent most of my time working with OpenStack and Kubernetes.
+My name is Shane Wang, and I work as a software engineer. Over the years, I have spent most of my time working with OpenStack and Kubernetes.
 
 ## Current Works
 
